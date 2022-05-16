@@ -6,7 +6,6 @@ Läsa/skriva: https://github.com/zocom-christoffer-wallenberg/nodejs-read-write-
 
 ## Artiklar
 
-
 Input/Output: https://codelikethis.com/lessons/javascript/input-and-output
 
 Bra artikel om terminalen (Mac): https://medium.com/@grace.m.nolan/terminal-for-beginners-e492ba10902a
